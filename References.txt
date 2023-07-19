@@ -1,0 +1,9 @@
+https://arxiv.org/pdf/1911.08299.pdf
+https://arxiv.org/abs/1512.03385
+https://arxiv.org/pdf/1612.03144.pdf
+https://github.com/digantamisra98/Mish/blob/master/Mish/Torch/mish.py
+https://github.com/digantamisra98/Mish/blob/master/Mish/Torch/mish.py
+https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py
+https://github.com/kuangliu/pytorch-fpn/blob/master/fpn.py
+https://keras.io/examples/vision/retinanet/
+https://github.com/bsridatta/Rotated-Object-Detection
